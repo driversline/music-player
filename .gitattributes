@@ -1,0 +1,4 @@
+*.md linguist-detectable=true
+*.sh linguist-detectable=false
+*.zsh linguist-detectable=false
+*.fish linguist-detectable=false
